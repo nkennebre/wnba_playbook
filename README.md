@@ -31,13 +31,7 @@ The WNBA is a unique and dynamic league with its own rhythm, strategy, and stars
    git clone https://github.com/yourusername/wnba-playbook.git
    ```
 
-2. **Install Dependencies:**
-   Navigate to the repository and install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Dive into the Data:**
+2. **Dive into the Data:**
    Open one of the Jupyter notebooks to start exploring!
 
 ## Contributing 🤝
